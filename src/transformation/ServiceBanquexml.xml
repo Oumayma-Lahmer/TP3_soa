@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<BanqueService>
+  <conversion>
+    <montant>0.0</montant>
+  </conversion>
+  <getCompte>
+    <code>001</code>
+    <solde>1000.0</solde>
+    <dateCreation>2000-01-01</dateCreation>
+  </getCompte>
+  <getComptes>
+    <code>2</code>
+    <solde>3000.0</solde>
+    <dateCreation>2000-01-01</dateCreation>
+  </getComptes>
+  <getComptes>
+    <code>3</code>
+    <solde>4000.0</solde>
+    <dateCreation>2021-01-01</dateCreation>
+  </getComptes>
+  <getComptes>
+    <code>4</code>
+    <solde>700.0</solde>
+    <dateCreation>2001-01-01</dateCreation>
+  </getComptes>
+</BanqueService>
+
+
+
